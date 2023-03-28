@@ -1,0 +1,5 @@
+o ruben esta a fazer um teste para testeamento o numero de ocorrencias da palavra teste neste ficheiros
+
+teste   Teste    TESTE 
+
+o "teste" tem 4 ocorrencias
